@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Phishing-Simulation</title>
+</head>
+<body>
+  <h1>Phishing-Simulation</h1>
+  <p>Dies war ein Test! Sie haben auf einen potenziellen Phishing-Link geklickt.</p>
+  <p>Bitte seien Sie in Zukunft vorsichtiger.</p>
+</body>
+</html>
+
